@@ -3,6 +3,7 @@ public class A01 {
         int a = 5;
         if (a>2);
         System.out.println("a " + a);
+        //1216mstfysrykb.
 
     }
 }
